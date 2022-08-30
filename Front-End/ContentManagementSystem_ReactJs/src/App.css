@@ -1,0 +1,20 @@
+.contact{
+margin-left: 30%;
+margin-top: 5%;
+}
+
+td{
+  width: 20em;
+  
+}
+.td-1{
+  background-color: #9CAECE;
+}
+.td-2{
+background-color: #DEE3EF;
+
+}
+
+#confirmer{
+  margin-left: 20px;
+}
